@@ -1,7 +1,4 @@
 To create an work on virtual env
 
-1)virtualenv env_name
-2)source  env_name/bin/activate
-
-
-https://towardsdatascience.com/how-to-build-your-own-chatbot-using-deep-learning-bb41f970e281
+virtualenv env_name
+source  env_name/bin/activate

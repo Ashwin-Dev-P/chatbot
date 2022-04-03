@@ -1,0 +1,21 @@
+.my_response_class {
+  float: right;
+}
+
+.response {
+  margin: 10px 3px 10px 3px;
+  background-color: #c7d0ff;
+  border-radius: 5px;
+  padding: 5px;
+}
+.user-response {
+  margin-left: 5%;
+}
+
+.bot-response {
+  margin-right: 5%;
+}
+
+#my-container {
+  margin-top: 4%;
+}
